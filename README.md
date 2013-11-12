@@ -1,4 +1,4 @@
-challenge-programs
+contestCode
 ==================
 By: Elliot M
 
