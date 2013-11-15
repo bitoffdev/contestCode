@@ -7,3 +7,4 @@ https://code.google.com/codejam
 
 ###Solutions for Widener University's Annual High School Programming Competition
 http://cs.widener.edu/contest/
+All solutions are written in Python 2.7
