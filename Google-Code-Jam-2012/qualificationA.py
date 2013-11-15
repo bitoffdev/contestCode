@@ -1,3 +1,5 @@
+#Google Code Jam 2012 Qualification Round
+#Problem A. Speaking in Tongues
 from sys import argv
 script, infile, outfile = argv
 data = [line.rstrip('\n') for line in open(infile)]
